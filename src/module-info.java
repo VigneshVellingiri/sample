@@ -1,9 +1,5 @@
-/**
- * 
- */
-/**
- * @author vigne
- *
- */
-module sample {
+public class {
+public static void main(String[] args){
+  
+
 }
